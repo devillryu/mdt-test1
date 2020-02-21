@@ -1,0 +1,50 @@
+    body{
+        font-size: 20pt;
+        background-color:black;
+        color: cyan;
+        }
+
+    h1  {
+        font-size: 50pt;
+        text-align: center;
+        background-color:rgba(255, 0, 140, 0.288);
+        text-shadow: -1px 6px gray;
+        }
+
+    h2  {
+        font-size: 40pt;
+        text-align: center;
+        text-decoration: underline;
+        }
+
+    th  {
+        font-size: 25pt;
+        text-align: left;
+        }
+
+    td  {
+        color: yellow;
+        }
+    td > a{
+        color: rgb(255, 0, 0);
+    }
+
+    img {
+        width: 30%;
+        height: 450pt;
+        }
+    #cats {
+        width: 15%;
+        height: 15%
+          }
+    /* .mypicture{ for study only} */
+
+    hr  {
+        height: 30px;
+        background-color:rgb(30, 255, 0);
+        border: none;
+        }
+
+    div {
+        text-align: center;
+        }
